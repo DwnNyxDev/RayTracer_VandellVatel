@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Color
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Color\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=newR\ newG\ newB
+comment1.target=Color(double,\ double,\ double)
+comment10.params=c
+comment10.target=Color\ tint(Color)
+comment2.params=
+comment2.target=double\ getR()
+comment3.params=
+comment3.target=double\ getG()
+comment4.params=
+comment4.target=double\ getB()
+comment5.params=c
+comment5.target=Color\ add(Color)
+comment6.params=scalar
+comment6.target=Color\ scale(double)
+comment7.params=
+comment7.target=int\ toARGB()
+comment8.params=c
+comment8.target=Color\ shade(Color)
+comment9.params=c\ amount
+comment9.target=Color\ lerp(Color,\ double)
+numComments=11

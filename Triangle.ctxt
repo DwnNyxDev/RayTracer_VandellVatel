@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\r\n\ Represents\ a\ triangle\ in\ 3D\ space.\r\n\ \r\n\ @author\ Ben\ Farrar\r\n\ @version\ 2019.05.22\r\n
+comment1.params=p0\ p1\ p2\ m
+comment1.target=Triangle(Point,\ Point,\ Point,\ Material)
+comment10.params=surfaces\ timeInterval
+comment10.target=void\ checkCollision(java.util.ArrayList,\ double)
+comment11.params=
+comment11.target=Vector\ getNormal()
+comment2.params=ray
+comment2.target=Intersection\ intersect(Ray)
+comment3.params=
+comment3.target=Triangle\ duplicate()
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment5.params=
+comment5.target=Material\ getMaterial()
+comment6.params=m
+comment6.target=void\ setMaterial(Material)
+comment7.params=vIndex
+comment7.target=Point\ getVertex(int)
+comment8.params=p0\ p1\ p2
+comment8.target=void\ setVertices(Point,\ Point,\ Point)
+comment9.params=disIn
+comment9.target=void\ addDisplacement(Vector)
+numComments=12

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Light
+comment0.text=\r\n\ Abstract\ class\ Light\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=
+comment1.target=void\ randomizeTarget()
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=Light\ duplicate()
+comment4.params=surfacePoint
+comment4.target=Vector\ computeLightDirection(Point)
+comment5.params=surfacePoint
+comment5.target=Color\ computeLightColor(Point)
+comment6.params=surfacePoint
+comment6.target=double\ computeLightDistance(Point)
+numComments=7

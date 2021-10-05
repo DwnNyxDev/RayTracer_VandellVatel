@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Lambert
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lambert\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=c
+comment1.target=Lambert(Color)
+comment2.params=
+comment2.target=Color\ getDiffuse()
+comment3.params=c
+comment3.target=void\ setDiffuse(Color)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=i\ viewingRay\ li
+comment5.target=Color\ computeLighting(Intersection,\ Ray,\ Light)
+numComments=6

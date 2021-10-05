@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=SceneCreator
+comment0.text=\r\n\ Details\ the\ static\ methods\ to\ creating\ various\ scenes\ for\ use\ in\ the\ raytracer.\r\n\ scene1()\ is\ included\ as\ an\ example.\ You\ can\ add\ more\ static\ methods\ (for\ example\ scene2(),\r\n\ scene3(),\ etc.)\ to\ create\ different\ scenes\ without\ affecting\ scene1.\r\n\r\n\ @author\ Ben\ Farrar\r\n\ @version\ 2019.05.22\r\n
+comment1.params=xResolution\ yResolution
+comment1.target=Scene\ scene1(double,\ double)
+comment10.params=curr\ v1\ widthIn\ heightIn\ mat\ forwardIn\ upIn
+comment10.target=Scene\ addRectangle(Scene,\ Point,\ double,\ double,\ Material,\ Vector,\ Vector)
+comment2.params=xResolution\ yResolution
+comment2.target=Scene\ scene2(double,\ double)
+comment3.params=xResolution\ yResolution
+comment3.target=Scene\ scene3(double,\ double)
+comment4.params=xResolution\ yResolution
+comment4.target=Scene\ scene4(double,\ double)
+comment5.params=xResolution\ yResolution\ frame
+comment5.target=Scene\ movieScene(double,\ double,\ int)
+comment6.params=xResolution\ yResolution
+comment6.target=Scene\ scene5(double,\ double)
+comment7.params=xResolution\ yResolution
+comment7.target=Scene\ sceneCreate(double,\ double)
+comment8.params=curr\ center\ radius\ mat
+comment8.target=Scene\ addSphere(Scene,\ Point,\ double,\ Material)
+comment9.params=curr\ v1\ v2\ v3\ mat
+comment9.target=Scene\ addTriangle(Scene,\ Point,\ Point,\ Point,\ Material)
+numComments=11

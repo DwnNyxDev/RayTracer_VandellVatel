@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Material
+comment0.text=\r\n\ Abstract\ class\ Material\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=textureIn
+comment1.target=void\ setTexture(ColorImage)
+comment10.params=packed
+comment10.target=Color\ fromARGB(int)
+comment10.text=\ \r\n\ Takes\ a\ packed\ int\ in\ ARGB\ format,\ which\ we\ get\ from\ the\ BufferedImage\ file\ writing\ class,\r\n\ and\ turns\ it\ into\ a\ Color\ object\ by\ separating\ out\ its\ R,G,B\ values.\r\n
+comment2.params=textFile
+comment2.target=void\ setTextFile(java.io.File)
+comment3.params=
+comment3.target=boolean\ setTexture2()
+comment4.params=
+comment4.target=ColorImage\ getTexture()
+comment5.params=
+comment5.target=java.io.File\ getTextFile()
+comment6.params=i\ viewingRay\ li
+comment6.target=Color\ computeLighting(Intersection,\ Ray,\ Light)
+comment7.params=
+comment7.target=double\ getReflectiveness()
+comment8.params=
+comment8.target=java.io.File\ openFileTest()
+comment9.params=imgFile
+comment9.target=ColorImage\ loadImage2(java.io.File)
+numComments=11

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Phong
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Phong\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=diff\ spec\ exp
+comment1.target=Phong(Color,\ Color,\ double)
+comment2.params=
+comment2.target=Color\ getDiffuse()
+comment3.params=c
+comment3.target=void\ setDiffuse(Color)
+comment4.params=
+comment4.target=Color\ getSpecular()
+comment5.params=spec
+comment5.target=void\ setSpecular(Color)
+comment6.params=
+comment6.target=double\ getExponent()
+comment7.params=exp
+comment7.target=void\ setExponent(double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=i\ viewingRay\ li
+comment9.target=Color\ computeLighting(Intersection,\ Ray,\ Light)
+numComments=10

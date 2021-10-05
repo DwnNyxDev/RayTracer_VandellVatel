@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ColorImage
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ColorImage\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=newWidth\ newHeight
+comment1.target=ColorImage(int,\ int)
+comment2.params=
+comment2.target=int\ getWidth()
+comment3.params=
+comment3.target=int\ getHeight()
+comment4.params=col\ row
+comment4.target=Color\ getColor(int,\ int)
+comment5.params=col\ row\ c
+comment5.target=void\ setColor(int,\ int,\ Color)
+numComments=6
