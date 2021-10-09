@@ -1,12 +1,13 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Raytracer Final Project for my AP CSA class.
 
-PROJECT TITLE: Raytracer AP CSA Final Project
-PURPOSE OF PROJECT: Allow people to create their own raytraced scenes
-VERSION or DATE: 2.0.0
-HOW TO START THIS PROJECT:
-AUTHORS: Vandell Vatel & Ben Farrar
-USER INSTRUCTIONS: 
+How to Use:
+1. Run jar file
+2. Create whatever scenes you want using the gui I created.
+
+Try:
+- creating a sphere at 0,0,-15 with a radius of 2
+- clicking that sphere and changing it's color
+- giving the sphere a texture from the folder of Textures I included. 
+(Remember to set the sphere's diffuse to a dark color to actually see the texture)
+- Going to Scene->Load in the MenuBar and loading in the saved scene that I included.
+(It'll take a second to load)
