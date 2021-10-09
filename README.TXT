@@ -11,3 +11,5 @@ Try:
 (Remember to set the sphere's diffuse to a dark color to actually see the texture)
 - Going to Scene->Load in the MenuBar and loading in the saved scene that I included.
 (It'll take a second to load)
+
+[Final Submission Zip with Jar Executable](https://github.com/DwnNyxDev/RayTracer_VandellVatel/releases/tag/FinalSubmission)
