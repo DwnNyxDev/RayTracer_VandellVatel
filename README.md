@@ -13,3 +13,9 @@ Try:
 (It'll take a second to load)
 
 [Final Submission Zip with Jar Executable](https://github.com/DwnNyxDev/RayTracer_VandellVatel/releases/tag/FinalSubmission)
+
+Examples:
+![SomeFunWithMirrors](Examples/SomeFunWithMirrors.png?raw=true)
+
+https://github.com/DwnNyxDev/RayTracer_VandellVatel/assets/90082314/377449dc-c7e9-45ee-91ad-43c570708774
+
